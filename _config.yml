@@ -17,10 +17,10 @@ title: Coursera - ruby-on-rails-web-services-mongodb
 email: rockyroad@example.com
 description: > # this means to ignore newlines until "baseurl:"#
   Here I intend to show off a few notes along my course study.
-baseurl: "/mypages" # the subpath of your site, e.gn. /blog
-url: "https://rockyroad29.github.io/coursera-html5/" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.gn. /blog
+# url: "https://rockyroad29.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: I_m_not_there
-github_username:  rockyroad29
+github_username:  RockyRoad29
 
 # Build settings
 markdown: kramdown
