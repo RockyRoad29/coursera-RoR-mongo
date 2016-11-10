@@ -26,7 +26,7 @@ github_username:  rockyroad29
 markdown: kramdown
 theme: minima
 gems:
-  # - jekyll-feed
+  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
