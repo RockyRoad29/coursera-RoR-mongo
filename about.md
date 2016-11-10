@@ -5,17 +5,8 @@ permalink: /about/
 ---
 This is a set of pages describing my work along this course.
 
-## About Jekyll
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is my first Jekyll site, so it also includes some posts which came along
+and more about how I used it.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
-
-## About markup : kramdown
-
-Most pages are written using [kramdown syntax](http://kramdown.gettalong.org/).
+It might also include some posts or elements related to other techniques I used,
+but not part of the course.
